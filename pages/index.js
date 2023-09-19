@@ -26,7 +26,7 @@ const Home = () => {
 
       <Navbar />
       <Hero />
-      <SectionTitle
+      {/* <SectionTitle
         pretitle="Nextly Benefits"
         title=" Why should you use this landing page">
         Nextly is a free landing page & marketing website template for startups
@@ -57,7 +57,7 @@ const Home = () => {
       <Faq />
       <Cta />
       <Footer />
-      <PopupWidget />
+      <PopupWidget /> */}
     </>
   );
 }
